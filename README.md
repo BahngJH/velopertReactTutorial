@@ -1,4 +1,4 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## velopert의 리액트를 다루는 기술의 튜토리얼을 따라할 프로젝트입니다. :)
 
 ## Available Scripts
 

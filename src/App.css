@@ -20,3 +20,11 @@
 .App-link {
   color: #09d3ac;
 }
+
+.react {
+    background: black;
+    color: tomato;
+    font-size: 48px;
+    font-weight: bold;
+    padding: 16px;
+}
