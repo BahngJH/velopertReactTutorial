@@ -14,7 +14,7 @@ class Counter extends Component {
           onClick={() => {
             this.setState(
               {
-                number: number + 1
+                number: number + 1  
               },
               () => {
                 console.log(this.state);
